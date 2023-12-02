@@ -1,0 +1,1 @@
+INSERT INTO CUENTA(id_cuenta, numero_cuenta, tipo, saldo, estado, id_cliente) VALUES (1, 1245232, 'Ahorros', 2000, true, 14);
